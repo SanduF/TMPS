@@ -1,6 +1,6 @@
 # Laboratory Work Nr.2 Creational Design Patterns
 ## Course: Tehnici si Mecanisme de Proiectare Software
-## Author: Vasluian Ion
+## Author: Furdui Alexandru
 ****
 ## Theory
 Creational design patterns are a category of design patterns that focus on the process of object creation. They provide a way to create objects in a flexible and controlled manner, while decoupling the client code from the specifics of object creation. Creational design patterns address common problems encountered in object creation, such as how to create objects with different initialization parameters, how to create objects based on certain conditions, or how to ensure that only a single instance of an object is created. There are several creational design patterns that have their own strengths and weaknesses. Each of it is best suited for solving specific problems related to object creation. By using creational design patterns, developers can improve the flexibility, maintainability, and scalability of their code.
