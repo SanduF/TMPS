@@ -1,6 +1,6 @@
 # Laboratory Work Nr.3 Structural Design Patterns
 ## Course: Tehnici si Mecanisme de Proiectare Software
-## Author: Vasluian Ion
+## Author: Furdui Alexandru
 ****
 ## Theory
 Structural design patterns explain how to assemble objects and classes into larger structures, while keeping these structures flexible and efficient. These patterns focus on, how the classes inherit from each other and how they are composed from other classes.
