@@ -1,6 +1,6 @@
 # Laboratory Work Nr.4 Behavioral Design Patterns
 ## Course: Tehnici si Mecanisme de Proiectare Software
-## Author: Vasluian Ion
+## Author: Furdui Alexandru
 ****
 ## Theory
 
