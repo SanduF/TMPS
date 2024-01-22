@@ -21,7 +21,7 @@ and can be applied to any object-oriented programming language.
 
 ****
 ## Implementation
-I chose Java for this task, working in IntelliJ since it's the most comfortable IDE I have used so far.
+I chose Java for this task, I worked in IntelliJ.
 
 In my project, I have a class Employee, which shows us the Single Responsibility Principle:
 ```java
