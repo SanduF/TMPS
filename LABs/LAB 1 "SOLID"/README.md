@@ -1,6 +1,6 @@
 # Laboratory Work Nr.1 SOLID Principles
 ## Course: Tehnici si Mecanisme de Proiectare Software
-## Author: Vasluian Ion
+## Author: Furdui Alexandru
 ****
 ## Theory
 SOLID is a set of five object-oriented design principles intended to make software designs more maintainable, flexible, and easy to understand. 
